@@ -15,14 +15,16 @@ It is one of the most important types of motors that operate on direct currents,
 ![image](https://user-images.githubusercontent.com/85449693/122657944-8e5e0200-d170-11eb-85e5-48bde2dd5b0f.png)
 
 •	Working mechanism of servo moto
-![image](https://user-images.githubusercontent.com/85449693/122657949-9ae25a80-d170-11eb-9533-eb1140252018.png)
 
 All types of servo motors have three wires connected to them. One of them is used for the power as positive and the other is used the negative as a ground, while the remaining wire is connected to the microcontroller (Arduino). The servo motor is controlled by PWM (Pulse width Modulation). The servo motor moves by 90 degrees from its original position depending on the signal from the microcontroller. The length of the pulse coming from the microcontroller determines how far the servo motor rotates. The figure on the right shows the mechanism of movement of the servo motor, depending on the length and size of the pulse.
-•	Robotic arm
-![image](https://user-images.githubusercontent.com/85449693/122657954-a6358600-d170-11eb-81cf-5e78bb849622.png)
 
+![image](https://user-images.githubusercontent.com/85449693/122657949-9ae25a80-d170-11eb-9533-eb1140252018.png)
+
+
+•	Robotic arm
 
 Robotic arms are machines that are programmed to perform several tasks in highly efficient ways. They are widely used in the industrial field, especially in factories that require heavy work. There are many different types of robotic arms that differ according to the applications used for them but in general, most robotic arms contain six joints. Some are controlled using a stepper motor and others are controlled by a servo motor. There are different types of these arms, and we will mention the most common ones
+![image](https://user-images.githubusercontent.com/85449693/122657954-a6358600-d170-11eb-81cf-5e78bb849622.png)
 
 	Cartesian robotic arms
 

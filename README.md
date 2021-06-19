@@ -24,7 +24,6 @@ All types of servo motors have three wires connected to them. One of them is use
 •	Robotic arm
 
 Robotic arms are machines that are programmed to perform several tasks in highly efficient ways. They are widely used in the industrial field, especially in factories that require heavy work. There are many different types of robotic arms that differ according to the applications used for them but in general, most robotic arms contain six joints. Some are controlled using a stepper motor and others are controlled by a servo motor. There are different types of these arms, and we will mention the most common ones
-![image](https://user-images.githubusercontent.com/85449693/122657954-a6358600-d170-11eb-81cf-5e78bb849622.png)
 
 	Cartesian robotic arms
 
@@ -36,10 +35,15 @@ Robotic arms are machines that are programmed to perform several tasks in highly
 
 	Spherical robotic arms
 
+![image](https://user-images.githubusercontent.com/85449693/122658005-13e1b200-d171-11eb-92ab-72d3b95201cd.png)
+
 
 
 
 	Cylindrical robotic arms
+
+![image](https://user-images.githubusercontent.com/85449693/122658009-1ba15680-d171-11eb-9408-89caea30ef3f.png)
+
 
 
 
@@ -47,7 +51,7 @@ Robotic arms are machines that are programmed to perform several tasks in highly
 
 	SCARA robotic arms
 
-
+![image](https://user-images.githubusercontent.com/85449693/122658015-252abe80-d171-11eb-97f3-96c7ab8f6890.png)
 
 
 

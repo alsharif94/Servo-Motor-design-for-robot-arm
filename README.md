@@ -81,9 +81,23 @@ Schematic diagram of the project
 
 ![image](https://user-images.githubusercontent.com/85449693/122684514-7046df00-d20e-11eb-85ee-e045d6052069.png)
 
+
+
+
 Conclusion 
 
+
+
 In this project, I learned several important points on how to deal with robotic arms and how to move the arms with high accuracy according to the required angle. At first, I learned how to use the servo motor and its importance in the movement of robotic arms. For the movement of the robotic arms, it is necessary to use the servo motor to perform these tasks, so we also learned how to use the microcontroller in the movement of the servo motor. I used the Arduino as a microcontroller because it contains many libraries that make it easier for us to deal with the servo motor in the required way. After completing the programming of the Arduino, I had to make sure that the programming was correct and that the circuit connections were correct and free from any errors, so some simulation programs were used to verify that. I used the Proteus for this task and it is one of the best simulation programs that enables us to run the circuit to make sure that it is working properly. 
+
+
+
+
+
+
+
+
+
 
 
 References 

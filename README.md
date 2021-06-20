@@ -73,3 +73,27 @@ Servo motors control by Arduino
 When controlling the servo motor, microcontrollers must be used to do these tasks. Arduino can do this easily because it contains its own libraries that enable us to program very easily compared to other types of microcontrollers. 
 
 
+![image](https://user-images.githubusercontent.com/85449693/122684499-5c9b7880-d20e-11eb-8da2-b2e97d9ecb37.png)
+
+
+Schematic diagram of the project 
+
+
+![image](https://user-images.githubusercontent.com/85449693/122684514-7046df00-d20e-11eb-85ee-e045d6052069.png)
+
+
+Programming code
+
+
+![image](https://user-images.githubusercontent.com/85449693/122684531-80f75500-d20e-11eb-8a7d-7c8cc8fb5fd0.png)
+
+
+![image](https://user-images.githubusercontent.com/85449693/122684535-89e82680-d20e-11eb-900c-55e66d129d5b.png)
+
+
+
+
+
+
+
+

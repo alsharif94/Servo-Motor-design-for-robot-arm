@@ -66,3 +66,10 @@ Robotic arms are machines that are programmed to perform several tasks in highly
 5.	Automated assembly Machine feeding
 6.	Machine access
 
+
+Servo motors control by Arduino
+
+
+When controlling the servo motor, microcontrollers must be used to do these tasks. Arduino can do this easily because it contains its own libraries that enable us to program very easily compared to other types of microcontrollers. 
+
+
